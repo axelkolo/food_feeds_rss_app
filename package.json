@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Axel Kolo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
 }
